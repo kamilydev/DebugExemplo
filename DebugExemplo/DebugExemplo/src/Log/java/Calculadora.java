@@ -1,3 +1,4 @@
+package Log.java;
 
 public class Calculadora {
 	public float calcular(float a, float b, char operacao) {
